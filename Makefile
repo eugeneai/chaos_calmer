@@ -6,7 +6,6 @@
 # See /LICENSE for more information.
 #
 
-FORCE:=1
 TOPDIR:=${CURDIR}
 LC_ALL:=C
 LANG:=C
