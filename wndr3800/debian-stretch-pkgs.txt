@@ -1,1 +1,1 @@
-build-essential mc libncursesw5-dev zlib1g-dev libssl-dev git libncurses5-dev subversion python2.7 gawk
+build-essential mc libncursesw5-dev zlib1g-dev libssl-dev git libncurses5-dev subversion python2.7 gawk wget
